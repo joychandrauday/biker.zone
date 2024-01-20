@@ -116,3 +116,9 @@
     width: 1140px;
     margin: 0 auto;
 }
+@media (max-width: 640px) {
+    .containerr {
+        width: 90%;
+        margin: 0 auto;
+    }
+}
